@@ -1,4 +1,4 @@
-package Bot::BasicBot::Pluggable::Module::UK2::Quote;
+package Bot::BasicBot::Pluggable::Module::Quote;
 
 use strict;
 no warnings;
